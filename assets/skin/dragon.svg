@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" shape-rendering="crispEdges">
+    <!-- Black body -->
+    <rect x="16" y="24" width="32" height="16" fill="#000000" />
+    
+    <!-- Gold head -->
+    <rect x="24" y="16" width="16" height="8" fill="#FFD700" />
+    
+    <!-- Gold wings -->
+    <polygon points="16,24 8,32 16,40" fill="#FFD700" />
+    <polygon points="48,24 56,32 48,40" fill="#FFD700" />
+    
+    <!-- Gold tail -->
+    <polygon points="16,32 8,40 16,48" fill="#FFD700" />
+    
+    <!-- Gold eyes -->
+    <circle cx="28" cy="20" r="2" fill="#FFD700" />
+    <circle cx="36" cy="20" r="2" fill="#FFD700" />
+    
+    <!-- Gold mouth -->
+    <path d="M28,24 Q32,28 36,24" stroke="#FFD700" stroke-width="1" fill="none" />
+</svg>
